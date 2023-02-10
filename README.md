@@ -1,2 +1,2 @@
-# Trialscc
+# GIT tutorial
 cc club class
